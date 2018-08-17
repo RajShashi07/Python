@@ -86,10 +86,3 @@ e.pack()
 e.focus_set()
 # Start GUI
 root.mainloop()
-
-
-
-
-
-
-
